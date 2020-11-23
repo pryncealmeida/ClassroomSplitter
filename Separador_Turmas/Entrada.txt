@@ -1,0 +1,70 @@
+50001899	Emanuele Silva Rocha	7,67
+52000117	Davi Roveda De Carvalho	7,33
+50001785	Samuel Teixeira Machado	6,83
+51800039	Isabella Reis Murta	6,83
+51700049	Gustavo Martinho Fernandes	6,50
+50002002	Antônio Augusto Azevedo Pereira	6,50
+50002157	Davi Pontello Rocha	6,33
+51200002	Marcos Vinicius Assis De Oliveira	6,17
+50002378	Lucas Ferraz Gravito	6,17
+51900070	Davi Otto Albano Mendes De Andrade	6,00
+50001783	Laura Bastos De Souza Karam Rosa	5,83
+50002233	Maria Clara Estanislau Costa	5,83
+51800059	Juan Pablo Oliveira Campos	5,83
+51200138	Luiza Soares Vieira	5,83
+51600043	Ana Beatriz Nery Campos Rodrigues	5,67
+51200057	Gabriela Matos Ribeiro Felix	5,67
+51200056	Victor Humberto Estanislau Gonçalves	5,67
+51800071	Vitor Sérvulo Viana Arantes	5,67
+52000128	Ana Lívia Penoni Salvador	5,67
+52000125	Pedro Henrique Lobato Viana Silva	5,67
+50002596	Julia Marques Freitas De Campo Barbosa	5,50
+51900057	Rafael Xavier Praes	5,50
+51300071	Caetano Diniz Frois Bastos	5,50
+51200058	Bernardo Soares Campolina Cotta	5,33
+51200054	Laura Araujo Costa	5,33
+50002606	Gustavo Henrique França Campos	5,33
+50001853	João Gabriel Barbosa Da Silva	5,33
+51600123	Raissa Aparecida Almeida Leite	5,33
+51800034	Gabriel Lanza De Moraes	5,33
+51800048	Igor Philippe De Lima Barbosa	5,33
+50001833	Ítalo Melquíades Capanema Oliveira	5,33
+52000095	Maria Eduarda Milard Santos	5,33
+51700070	Bianca Souza Cunha	5,17
+50001937	Arthur Santos Couto De Castro	5,17
+51400131	Bianca Rezende Figueiredo	5,17
+51300064	Bernardo Almeida Cunha	5,17
+51200142	Maria Eduarda Araujo Rodrigues	5,17
+51900133	Maria Eduarda Oliveira	5,17
+51900051	Pedro Henrique Brandão De Carvalho	5,17
+50002485	Ana Luiza Martins Campelo	5,00
+50001778	Ana Paula Moreira Mendes Carvalho	5,00
+50002211	Carolina Ribeiro De Abreu	5,00
+51600041	Pedro Henrique Pereira Machado Silva	5,00
+51900124	Eduarda Anaely Suar Borges	5,00
+51200052	Maria Eduarda De Souza Carvalho	5,00
+50002023	Henrique Teixeira De Souza	5,00
+50002441	José Francisco De Albuquerque França	5,00
+52000126	Luiza Campos Campolina	5,00
+52000074	Arthur Carvalho Côrte	5,00
+51700064	Julia Carolyne Barbosa E Silva	4,83
+51700060	Ryan Adrianus De Almeida Barroso	4,83
+51800070	Daniele Oliveira Gonçalves	4,83
+52000110	Bruna Luiza Noely De Marco	4,83
+50001975	Tomaz Vieira Antunes Ferreira	4,67
+51200186	Thiago Gabriel Pereira	4,67
+50002328	Otavio Henrique De Souza Silva	4,50
+51700112	Stela Metzker Amorim	4,50
+51600114	Pedro Guimarães Da Rocha	4,50
+52000089	Fábio Henrique Fernandes França	4,50
+50002301	Jose Luiz Avila Ribeiro	3,83
+51500112	Mateus Stanley Gonzaga Dias	3,83
+50002160	Otavio Augusto Correa Barros	3,83
+50001898	Isabela Silva Rocha	3,67
+50002053	Vinicius Martins Soares	3,67
+52000078	Marcella Moreira Campos	3,67
+51500122	Vinicio Pereira Gonçalves	3,00
+51700057	Luis Felipe Valadares Teixeira	2,83
+51700071	Bernardo Macedo França	2,33
+51900120	Anna Clara Faria Severo	2,33
+52000064	Saulo De Azevedo Iatarola Milagres	2,17

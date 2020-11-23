@@ -1,0 +1,23 @@
+50002427	Ana Beatriz Alves Teixeira	7,00
+50001757	Felipe Monteiro Espindola Soares	6,67
+50002069	Cauã Eduardo Correa Barros	6,56
+50002098	João Pedro Marcossi Machado	6,56
+50001811	Mateus Evaristo Melo	6,44
+50001726	Ruan Pablo Claver Oliveira	6,33
+50001601	Bernardo Henrique Oliveira Pereira	6,22
+50001710	Davi Paiva Lopes Nery	6,22
+50001624	Ysadora Souza Lanza	6,00
+51800111	Lucas Álvares Horta	6,00
+52000087	Giovanna Ferron Cançado	6,00
+51800049	Nayani Victória Tostes Nogueira	5,67
+51800084	Gabriel Saturnino De Figueiredo Rossi	5,22
+51900141	Ivan Reis De Vasconcelos Filho	5,11
+50002445	Renato Gimenez De Oliveira	5,00
+50002226	Renata Maria Castanheira Alves	5,00
+51600099	Sabrina Brandão Dos Santos Lima	5,00
+50002403	Larissa De Barros Machado Silva	4,22
+51900123	Bianca Emanuelly Gomes Saldanha	4,22
+50002337	Emanuelly Cristina Da Silva Teixeira	4,00
+50002553	Raissa Eduarda Pinheiro De Souza	3,78
+51500151	Carla Silva Locarno	3,67
+51800095	Alisson Junior Francisco Silva	2,44

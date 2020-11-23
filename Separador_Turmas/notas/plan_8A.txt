@@ -1,0 +1,30 @@
+51500099	Isadora Letícia Tavares Silva	8,00
+51300090	Letícia França Abreu Lacerda	7,80
+50002547	Luany Paula França	7,60
+51200064	Eduarda Moura Moreira	7,60
+51900142	Letícia Soares Fraga	7,60
+51500105	Larissa Emily Araújo Silva	7,40
+51300076	Clara Carneiro E Cruz	7,40
+50002546	João Gabriel Martins Freitas	7,20
+50002282	Júlia Stehling Garcia Ferreira	7,20
+50002223	Ana Luisa De Almeida	7,00
+52000071	Mateus Carvalho Zucconi	7,00
+52000107	Davi Ringuier Pontelo	6,80
+51300062	João Paulo Lima De Lacerda	6,60
+50002185	Tomás Emílio Costa Braga	6,40
+51900129	Arthur Gabriel Do Nascimento	6,40
+50002252	Arthur Do Nascimento Perônico Tameirão	6,20
+50002573	Gabriel Marques Tota Lanza	6,20
+50002077	Rafael Costa Silva Batista Maciel	6,20
+51600039	Diego Cunha Da Silva	6,00
+51900106	Breno Rabelo Amaral	5,80
+51300104	Arthur Carvalho E Bispo	5,60
+51700019	Enzo Fernandes Pereira	5,60
+51400061	Rafael Vaz De Melo Silva	5,60
+50002001	Sofia Machado Ribeiro	5,20
+51500094	Pedro Henrique Santana Soares	4,60
+50002444	Letícia Gabriele Gonçalves De Freitas	4,00
+51300094	Letícia Reis Martins	4,00
+50002038	Ana Beatriz Camêlo Campos	2,80
+50002299	Erick Eduardo Melo Mendes	2,60
+51600062	Ana Luiza Dos Anjos Almeida	2,40

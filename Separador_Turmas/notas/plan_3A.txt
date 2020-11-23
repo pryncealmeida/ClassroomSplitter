@@ -1,0 +1,41 @@
+50002352	Daniel Rocha Moraleida Gomes	6,78
+50002034	Victoria De Lima E Silva Santos	6,11
+51800092	André Siqueira Guilherme	5,56
+51400179	Otavio Augusto Bernardes Rodrigues	5,33
+50002091	Humberto Fonseca Sá Motta	5,00
+50001645	Luiza Monteiro Espindola Soares	5,00
+50002033	Isadora De Lima E Silva Santos	4,89
+51300137	Victor Augusto Lourenço De Matos Baldez	4,78
+50002278	Luiza Azeredo De Paula	4,67
+50002020	Ana Luiza Neri De Oliveira	4,56
+51500126	Clara Gabriela Queiroz De Carvalho	4,56
+51300209	Hanna Rodrigues Chaves	4,56
+50002540	Arthur Oliveira Braga	4,44
+51800081	Ana Clara Machado Ribeiro	4,44
+51800067	Guilherme Grossi Lamas Rocha	4,44
+50001448	Andre Henrique Almeida Cardoso	4,33
+51700068	Lavinya Gabriela Cardoso Silva	4,33
+51400095	Rafael Martins De Paula	4,11
+50001798	Debora Sena Passos Lima	4,00
+51300075	Maria Luisa Marques Guimaraes	4,00
+51400155	Gustavo Menezes França Fraga	3,89
+50001550	Marina De Souza Diniz	3,78
+50002183	Rafael Ribeiro Moreira	3,67
+51700113	João Pedro Souza Rocha	3,67
+50002022	Claudia Rocha Pontes	3,44
+51600040	Felipe Pereira Machado Silva	3,44
+51800058	Emanuelle Gomes Da Silva	3,33
+51800083	Manuela Ferron Cançado	3,11
+50002050	Camila Rodrigues De Castro Raposo	3,00
+51800087	Luiza Aparecida Falcão Da Silva	3,00
+51700094	Ítalo Henrique Lopes	3,00
+50002086	Vinicius Oliveira Diniz	2,89
+50002060	João Pedro Amaral Torres Reis	2,89
+51700100	Sarah Lucia Da Silva Souza	2,78
+51300188	Joana Campos Lourenço	2,44
+50001674	Bernardo Marques Tosta Lanza	2,33
+51900107	Beatriz Tatiani Sales	1,67
+51300074	EDUARDA NUNES SOUZA	4,111111111
+50001774	JADE PIGNATON MICHETTI CAETANO	3,222222222
+51400201	PEDRO HENRIQUE BRAZ SILVA	5,222222222
+51400138	FLAVIANY SILVA ROCHA	4

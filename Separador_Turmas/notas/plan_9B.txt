@@ -1,0 +1,34 @@
+50001899	Emanuele Silva Rocha	7,67
+52000117	Davi Roveda De Carvalho	7,33
+50002002	Antônio Augusto Azevedo Pereira	6,50
+50002378	Lucas Ferraz Gravito	6,17
+50001783	Laura Bastos De Souza Karam Rosa	5,83
+50002233	Maria Clara Estanislau Costa	5,83
+51800059	Juan Pablo Oliveira Campos	5,83
+51200138	Luiza Soares Vieira	5,83
+51200057	Gabriela Matos Ribeiro Felix	5,67
+51200056	Victor Humberto Estanislau Gonçalves	5,67
+51800071	Vitor Sérvulo Viana Arantes	5,67
+52000128	Ana Lívia Penoni Salvador	5,67
+52000125	Pedro Henrique Lobato Viana Silva	5,67
+50002596	Julia Marques Freitas De Campo Barbosa	5,50
+51300071	Caetano Diniz Frois Bastos	5,50
+50002606	Gustavo Henrique França Campos	5,33
+51800034	Gabriel Lanza De Moraes	5,33
+51800048	Igor Philippe De Lima Barbosa	5,33
+51400131	Bianca Rezende Figueiredo	5,17
+51900133	Maria Eduarda Oliveira	5,17
+51900051	Pedro Henrique Brandão De Carvalho	5,17
+50001778	Ana Paula Moreira Mendes Carvalho	5,00
+51600041	Pedro Henrique Pereira Machado Silva	5,00
+51200052	Maria Eduarda De Souza Carvalho	5,00
+50002441	José Francisco De Albuquerque França	5,00
+52000074	Arthur Carvalho Côrte	5,00
+51700060	Ryan Adrianus De Almeida Barroso	4,83
+51800070	Daniele Oliveira Gonçalves	4,83
+52000110	Bruna Luiza Noely De Marco	4,83
+50001975	Tomaz Vieira Antunes Ferreira	4,67
+50002160	Otavio Augusto Correa Barros	3,83
+50001898	Isabela Silva Rocha	3,67
+51900120	Anna Clara Faria Severo	2,33
+52000064	Saulo De Azevedo Iatarola Milagres	2,17

@@ -1,0 +1,27 @@
+51600101	Pedro Inácio Rodrigues Pontes	8,20
+50002425	Luiz Felipe Neri De Oliveira	7,80
+51400080	Luiza Gabrielle Castro De Jesus	7,80
+51400066	Tiago Rassier Gomes Tampieri	7,60
+51200217	Lívia Stefany Moreira Lourenço	7,40
+50002545	Helena Rosa Rocha De Castro	7,00
+50002397	Rafael Nogueira Vasconcelos	6,80
+50002189	Gabriel Oliveira Dos Santos	6,40
+50002162	Manuela Figueiredo Drummond	6,20
+50002368	Maria Clara Brandão Sales Lima	6,20
+51700089	Miguel Lobato De Pinho	6,20
+50002245	Ana Tereza Raposo Moreira	6,00
+51300122	Saulo Cesar Caputo De Luna	6,00
+50002552	Ana Beatriz Estanislau Costa	5,80
+51800054	Ana Gabriela De Souza Silvanio	5,40
+50002495	Larissa Lobato Maciel Lima	5,40
+50002209	Isabella Cristina Lacerda Mota	5,20
+51700073	João Gabriel Lopes Reis	5,00
+52000067	Júlia De Azevedo Iatarola Milagres	5,00
+50002507	Isabela Rodrigues De Castro Raposo	4,80
+51700119	Daniel Augusto De Almeida Campos	4,60
+50002205	Daniel Braga De Oliveira	4,40
+51700093	Camille Fernandes Costa	3,60
+51600037	Arthur Carvalho Silva	3,40
+51900050	Nathan Alves Da Silva	2,80
+51900115	Gabriela Carvalho Barbosa	2,80
+51300125	Maria Eduarda Silva	1,80

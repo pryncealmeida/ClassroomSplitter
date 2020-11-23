@@ -1,0 +1,32 @@
+51900064	Ana Alice Franco Maciel	9,00
+51800109	Sophia Oliveira Alves	8,20
+51400209	Juan Felipe Santos De Oliveira	8,00
+51900114	Vitória Júlia Gonçalves De Oliveira	7,80
+51200177	Arthur Morais De Godoy Coelho	7,20
+51300089	Alexandre Ferreira Borges Oliveira	7,20
+51600128	Guilherme De Souza Silva	7,20
+51300067	Victor Felipe Silva Cabral	7,20
+51800107	Beatriz Fernandino Meireles	7,20
+51300097	Vitor Augusto Oliveira Vieira	7,20
+51400060	João Paulo Pereira Machado	7,20
+51800041	João Victor Teixeira Gomes	7,00
+50002515	Lucas Miranda Lima	6,80
+52000134	Iran Yves Soares Duarte	6,80
+51200199	Giovanna Soares Dias Da Silva	6,60
+50002536	Giovanna Vitória Ferreira Fernandino	6,60
+50002024	Gustavo Teixeira Rocha Araujo	6,60
+51300091	Karine Figueiredo Goulart	6,60
+51700095	Fabricio Rodrigues Martins	6,60
+51900135	Maria Eduarda Caetano	6,60
+50002174	Clara Paiva Costa	6,40
+51300093	Pedro Dos Santos Reis	6,40
+51800069	Néstor Jesús Nápoles Grave De Peralta	6,40
+50002210	Emily Da Silva Gonçalves	6,20
+52000079	Gabriel Pereira Favarato	6,00
+51300120	Gabriel Cardoso Raposo Barbosa	5,80
+51700084	Giovanna Gabrielly Machado Pereira	5,80
+51400208	Livia Maria De Carvalho	5,60
+51800001	Marcus Vinícius Duarte Ferreira	5,40
+51200207	Ian Marco De Faria Barbosa	5,00
+50002057	Isabela De Oliveira Reis	3,00
+51300129	Leandro Cordeiro Hebach Batista	1,80

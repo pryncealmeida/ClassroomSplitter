@@ -1,0 +1,24 @@
+52000076	Bianca Moreira Campolina	8,60
+50002438	Gabriel Fonseca De Souza	8,00
+50002394	Lucas Machado Lima	7,80
+51200084	Miguel Humberto Gonçalves Lima	7,60
+51400062	Ana Clara Correa Dos Santos	7,20
+51300049	Arthur Augusto Lara Matos	7,00
+51300045	Francisco Oliveira Raposo	6,60
+51500032	André Souza Coaglio	6,00
+51300206	Jose Henrique De Avelar Vieira	5,60
+51200109	Davi Moreira De Faria	5,40
+51600091	Alexandre Alvares Sanches Venuto Filho	5,20
+50002577	Antonio Luiz Redoan Lanza Ferreira	5,20
+50002605	Gabriela Teixeira De Souza	5,20
+51600058	Arthur Amaral Calzolari	5,00
+51200031	Leticia Andrade Figueiredo	4,60
+50002432	Pedro Augusto Zeferino Souza	4,40
+51500127	Ana Laura Lima Batista	4,20
+51200220	Julia Santos Couto De Castro	4,20
+51900074	Matheus Henrique Melo Diniz	4,20
+51400068	Julia Apolinário Alves Moura	3,80
+51600122	Rayane Aparecida De Almeida Leite	3,40
+51700008	Giovanna Lopes Ferreira	3,20
+51200009	Maria Celeste Vasconcelos Ferreira	1,20
+51500062	Marco Antonio Silva Dumont Porto	0,00
